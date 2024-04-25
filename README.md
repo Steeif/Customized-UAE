@@ -1,6 +1,3 @@
-# AAR_Enterprises
-
-
 
 ## Getting started
 
